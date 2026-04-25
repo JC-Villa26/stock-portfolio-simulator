@@ -17,7 +17,7 @@ A C++ program that simulates a stock portfolio using object-oriented programming
 
 ## How to Compile and Run
 make driver
-'''
+
 ./driver
 
 ## Sample Output
@@ -25,4 +25,5 @@ Stock (NVDA):
   value: $  2080.00
    cost: $  1920.00
  profit: $   160.00
- '''
+
+ 
