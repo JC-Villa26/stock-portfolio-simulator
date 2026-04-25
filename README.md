@@ -22,8 +22,11 @@ make driver
 
 ## Sample Output
 Stock (NVDA):
+  
   value: $  2080.00
+   
    cost: $  1920.00
+ 
  profit: $   160.00
 
  
